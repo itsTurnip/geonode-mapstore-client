@@ -114,3 +114,7 @@ msgstr ""
 #: geonode_mapstore_client/templatetags/get_menu_json.py:64
 msgid "Dashboards"
 msgstr ""
+
+#: geonode_mapstore_client/templates/geonode-mapstore-client/snippets/search_bar.html:14
+msgid "Search"
+msgstr ""
