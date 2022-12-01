@@ -118,3 +118,15 @@ msgstr ""
 #: geonode_mapstore_client/templates/geonode-mapstore-client/snippets/search_bar.html:14
 msgid "Search"
 msgstr ""
+
+#: geonode_mapstore_client/templatetags/get_menu_json.py:122
+msgid "Create group"
+msgstr ""
+
+#: geonode_mapstore_client/templatetags/get_menu_json.py:117
+msgid "Add user"
+msgstr ""
+
+#: geonode_mapstore_client/templatetags/get_menu_json.py:112
+msgid "Invite users"
+msgstr ""
